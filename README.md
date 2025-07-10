@@ -11,6 +11,13 @@ Please look at the demo video below to see how it works
 - Have Python installed on your computer.
 - Have a GitHub account.
 
+## Demo
+<video width="600" controls>
+  <source src="MeetingBuddy-Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Setup:
 
 1. **Download the Git Repository:** [MeetingBuddy](https://github.com/AmoghBindal/MeetingBuddy)
